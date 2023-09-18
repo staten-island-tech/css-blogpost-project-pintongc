@@ -1,30 +1,57 @@
 .post {
-    width: 600px;
-    height: 600px;
-    margin: 150px auto;
-    background-color: aliceblue;
-    padding: 0 20px 20px 20px;
-    border: 5px solid black;
-    text-align: center;
-    font-size: 42px;
-    
-  }
+  width: 35vw;
+  height: 65vh;
+  margin: 10vh auto;
+  background-color: aliceblue;
+  padding: 1%;
+  border: 5px solid black;
+  text-align: center;
+  font-size: 42px;
 
-div {
-    font-size: 42px;
-    background-color: aliceblue;
+}
+
+body {
+  font-family: 'Kanit', sans-serif;
+  background-color: #FFCDD2;
+  color: #212120;
+}
+
+.header {
+  margin: 1px auto;
+  text-align: center;
+  border-bottom: 5px solid #F44336;
+  padding: 10px 100px;
+  background-color: #FFCDD2;
+  font-size: 26px;
 }
 
 img {
-  width: auto;
-    height: 20vw;
-    margin: 3vw auto;
-    background-color: aliceblue;
-    text-align: center;
-    border: 5px dotted red;
+  margin: 1vh 1vw;
+  background-color: aliceblue;
+  text-align: center;
+  border: 5px groove #FFEB3B;
 }
 
-p {
-  font-size: medium;
-  max-width: 600px;
+.writing {
+  font-size: 25px;
+  margin-top: 2vh;
+}
+
+span {
+  font-size: 40px;
+}
+
+#img-1 {
+  height: 40vh;
+  width: auto;
+}
+
+#img-2 {
+  height: 40vh;
+  width: auto;
+}
+
+#img-3 {
+  height: 47vh;
+  width: auto;
 }
